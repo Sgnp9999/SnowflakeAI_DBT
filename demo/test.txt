@@ -1,2 +1,2 @@
-Hello from PyGithub!
-This is a test file.
+Updated content!
+This file was modified.
